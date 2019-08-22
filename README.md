@@ -1,2 +1,2 @@
 # UFO-Game-Unity-development
-My game
+Based on the tutorial of the game UFO Game from Unity.
